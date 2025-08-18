@@ -11,6 +11,7 @@
 	<groupId>io.github.prashantbabar002</groupId>
 	<artifactId>mb_emt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
 	<description>Master pom for buszy spring-boot apps</description>
 	<url>https://github.com/prashantbabar002/mb_emt</url>
 	<licenses>
